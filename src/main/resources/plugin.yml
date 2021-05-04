@@ -1,0 +1,4 @@
+name: MessageTimer
+version: ${project.version}
+main: messagetimer.messagetimer.MessageTimer
+api-version: 1.16
